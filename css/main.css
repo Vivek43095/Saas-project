@@ -1,0 +1,20 @@
+.footer {
+  font-style: italic;
+  border: 3px solid blue;
+  font-weight: bold; }
+
+.nav {
+  background-color: orange; }
+  .nav ul li {
+    list-style: none; }
+  .nav a {
+    text-decoration: none; }
+
+h1, .footer h3 {
+  color: orange;
+  font-size: 40px;
+  background-color: green;
+  text-align: center; }
+
+h1:hover, .footer h3:hover {
+  background-color: aqua; }
